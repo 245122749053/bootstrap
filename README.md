@@ -1,4 +1,4 @@
-# bootstrap
+# Bootstrap
 ## Objective
 The objective of this project was to explore Bootstrap 5 and design responsive web pages by combining different UI components.
 ## Steps I Followed
